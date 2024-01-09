@@ -22,6 +22,6 @@ ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gelbus&theme=dark)](https://github.com/Gelbus/github-readme-stats)
 
 ## *Contact me anytime*
-<img width=50 src='https://github.com/Gelbus/Gelbus/assets/100421998/606e7bec-e492-487c-9ed1-f71f9119afd4' href=https://t.me/gnechtowork>
+<img width=50 src='https://github.com/Gelbus/Gelbus/assets/100421998/606e7bec-e492-487c-9ed1-f71f9119afd4' href='https://t.me/gnechtowork'>
 
 
