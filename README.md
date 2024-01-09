@@ -9,6 +9,8 @@
 </p>
 
 <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg'>
+<img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg'>
+<img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg'>
 
 
 ___
