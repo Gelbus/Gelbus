@@ -8,10 +8,11 @@
 <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'>
 </p>
 
+<p>
 <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg'>
 <img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg'>
 <img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg'>
-
+</p>
 
 ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gelbus&theme=dark)](https://github.com/Gelbus/github-readme-stats)
