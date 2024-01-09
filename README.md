@@ -9,7 +9,7 @@
 </p>
 
 <p>
-<> <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg'>
+<!-- <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg'> -->
 <img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg'>
 <img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg'>
 </p>
