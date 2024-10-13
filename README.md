@@ -20,7 +20,9 @@
 
 ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gelbus&theme=dark)](https://github.com/Gelbus/github-readme-stats)
-
+<p>
+[My LeetCode](https://leetcode.com/u/Gelbus/)]
+</p>
 ## *Contact me anytime*
 <p>
 <a href='https://t.me/gnechtowork'>
