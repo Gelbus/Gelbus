@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=1DAB00&background=16161600&center=true&width=435&lines=Hello%2C+my+name+is+Gleb;I+am+a+python+developer;I+like+neural+networks+and+grean+tea)](https://git.io/typing-svg)
 
 
-# _Skill set and [LeetCode](https://leetcode.com/u/Gelbus/)_
+# _Skill set and [LeetCode](https://leetcode.com/u/Gelbus/)/[CodeRun](https://coderun.yandex.ru/profile)_
 <p>
 <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
 <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg'>
