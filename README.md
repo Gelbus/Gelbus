@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=1DAB00&background=16161600&center=true&width=435&lines=Hello%2C+my+name+is+Gleb;I+am+a+python+developer;I+like+neural+networks+and+grean+tea)](https://git.io/typing-svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 # _Skill set and [LeetCode](https://leetcode.com/u/Gelbus/)/[CodeRun](https://coderun.yandex.ru/profile)_
