@@ -3,23 +3,27 @@
 
 # _Skill set and [LeetCode](https://leetcode.com/u/Gelbus/)/[CodeRun](https://coderun.yandex.ru/profile)_
 <p>
-<img width=50 src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
-<img width=50 src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg'>
-<img width=50 src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'>
-<img width=50 src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg'>
+<img width=80 src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
+<img width=80 src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg'>
+<img width=80 src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'>
+<img width=80 src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg'>
 </p>
 
 <p>
 <!-- <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg'> -->
-<img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg'>
-<img width=50 src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg'>
-<img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg'>
-<img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'>
+<img width=80 src ='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg'>
+<img width=80 src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg'>
+<img width=80 src ='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg'>
+<img width=80 src='https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg'>
+<img width=80 src ='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'>
 </p>
 
-<!-- <p>
-  <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg'>
-</p> -->
+<p>
+  <img width=80 src='https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg'>
+  <img width=80 src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg'>
+  <img width=80 src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg'>
+  <img width=80 src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'>
+</p>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gelbus&theme=dark)](https://github.com/Gelbus/github-readme-stats) -->
 
