@@ -6,17 +6,20 @@
 <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
 <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg'>
 <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'>
+<img width=50 src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg'>
 </p>
 
 <p>
 <!-- <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg'> -->
 <img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg'>
+<img width=50 src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg'>
 <img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg'>
+<img width=50 src ='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'>
 </p>
 
-<p>
+<!-- <p>
   <img width=50 src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg'>
-</p>
+</p> -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gelbus&theme=dark)](https://github.com/Gelbus/github-readme-stats) -->
 
